@@ -1,5 +1,5 @@
 # Case Studies 
-Portfolio of my works of several Case Studies in Business Analysis and Valuation for personal purposes.
+Portfolio of my works on several Case Studies in Business Analysis & Valuation (for personal purposes).
 
 ## Financial Analysis on Qantas
 
